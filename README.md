@@ -2,7 +2,8 @@
 # LBO Model in Python
 
 **!!!WORK-IN-PROGRESS!!!**
-This is a fork to Calivala-86's repo, as I have found serveral functions that could be improved. Also utilising some new libraries like Polars to improve the performance. Note that this is written in Python on Jupyter Notebook.
+
+This is a fork of Calivala-86's repo, as I have found serveral functions that could be improved, and cleaned up some variable names("entry_ass" is funny enough for me to get distracted). Also utilising some new libraries like Polars to improve the performance. Note that this is written in Python on Jupyter Notebook.
 
 I'm turning it into a monthly statement instead of annually.
 
