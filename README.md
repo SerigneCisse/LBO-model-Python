@@ -1,7 +1,7 @@
 
 # LBO Model in Python
 
-This is almost a complete reworked of Calivala-86's repo, as I have found serveral functions (or classes so the code would be easier to maintain + better modularity) that could be improved, and cleaned up some variable names("entry_ass" is funny enough for me to get distracted). Also utilising some new libraries like Polars to improve the performance.
+This is a complete rework of Calivala-86's repo, as I have found serveral functions (or classes so the code would be easier to maintain + better modularity) that could be improved, and cleaned up some variable names("entry_ass" is funny enough for me to get distracted). Also utilising some new libraries like Polars to improve the performance.
 
 Note that this is written in Python on Jupyter Notebook.
 
