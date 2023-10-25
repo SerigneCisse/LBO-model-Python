@@ -1,12 +1,15 @@
 
 # LBO Model in Python
 
-**!!!WORK-IN-PROGRESS!!!**
+This is almost a complete reworked of Calivala-86's repo, as I have found serveral functions (or classes so the code would be easier to maintain + better modularity) that could be improved, and cleaned up some variable names("entry_ass" is funny enough for me to get distracted). Also utilising some new libraries like Polars to improve the performance.
 
-This is almost a complete reworked of Calivala-86's repo, as I have found serveral functions (or classes so the code would be easier to maintain + better modularity) that could be improved, and cleaned up some variable names("entry_ass" is funny enough for me to get distracted). Also utilising some new libraries like Polars to improve the performance. Note that this is written in Python on Jupyter Notebook.
+Note that this is written in Python on Jupyter Notebook.
 
 Most importantly, I'm turning it into a monthly statement instead of annually,
 as I have never once asked to do an annual statement at work ever.
+The IRR is different from the what the casestudy has provided,
+as I saw that they didn't incorpate the acquisition cost and the exit value into the cashflow.
+Weird.
 
 **Original description**:
 > This is a simple replication/recreation of the PAPER LBO MODEL EXAMPLE by STREETOFWALLS using Python. The rationale behind for using Python was to understand how effieciently Python can be compare to excel in sense of timing assumption and formula manipulation.
